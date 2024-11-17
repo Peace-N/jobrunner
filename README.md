@@ -18,6 +18,11 @@ Job Runner is a laravel package, installation is super easy you will need to che
 - Create a new folder in the root of your laravel app and call it packages
 - Clone this package inside the packages folder
 
+Your folder structure should look like this:
+ --packages
+ ---- peacen
+ -------jobrunner
+
 ### Add repository & require to your main composer.json file in the root of your laravel application
 ````
     "require": {
