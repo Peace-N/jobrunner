@@ -10,6 +10,8 @@
 Job Runner is a laravel package, installation is super easy you will need to check the following:
 - Laravel version 11
 - PHP8.2+
+- The Job runner uses a secondary process that creates a child parallel PID Process away from the main PID - hence running seperatly.
+
 
 ## Installation Instructions
 
