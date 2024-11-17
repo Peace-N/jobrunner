@@ -56,8 +56,11 @@ The helper function can be used anywhere to run a background function:
 
 You can use any class in any absolute path an example is a class with a method and params as below
 ````
-sudo php artisan peace:run /Users/peacecoinvest/Herd/jobs/TestJob.php TestJob initTest peace ngara 24
+sudo php artisan peace:run /Users/peacen/Herd/jobs/TestJob.php TestJob initTest peace ngara 24
 ````
+
+the params are similar to the helper function above with {peace ngaa 24) on the bove command being variadic arguments and these can be unlimited.
+
 
 ### configuring options
 ````
