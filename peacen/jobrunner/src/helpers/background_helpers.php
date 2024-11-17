@@ -10,7 +10,7 @@ use Peacen\JobRunner\RunBackgroundJob;
  * @return RunBackgroundJob
  */
 
-if (! function_exists('app_path')) {
+if (! function_exists('runBackgroundJob')) {
     function runBackgroundJob($path, $class, $method, ...$args)
     {
         return new RunBackgroundJob($path, $class, $method, ...$args);
