@@ -1,0 +1,20 @@
+JUB RUNNER FAILED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:30 pm
+Attempt: TestJob | initTest|
+Reason: Function Name does not exist - Check Method Name
+-------------------------
+JUB RUNNER FAILED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:37 pm
+Attempt: TestJob | initTest|
+Reason: Function Name does not exist - Check Method Name
+-------------------------
+JUB RUNNER FAILED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:41 pm
+Attempt: TestJob | initTest|
+Reason: Function Name does not exist - Check Method Name
+-------------------------
+JUB RUNNER FAILED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:47 pm
+Attempt: TestJob | initTest|
+Reason: Function Name does not exist - Check Method Name
+-------------------------
+JUB RUNNER FAILED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:48 pm
+Attempt: TestJob | initTest|
+Reason: Function Name does not exist - Check Method Name
+-------------------------

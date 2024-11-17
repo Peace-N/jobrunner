@@ -1,0 +1,8 @@
+JUB RUNNER STARTED: CLASS:/Peacen/JobRunner/TestJob -  METHOD: initTest - November 17, 2024, 11:47 am
+Attempt: /Peacen/JobRunner/TestJob | initTest
+User: Authenticated User
+-------------------------
+JUB RUNNER STARTED: CLASS:TestJob -  METHOD: initTest - November 17, 2024, 5:48 pm
+Attempt: TestJob | initTest
+User: Authenticated User??
+-------------------------
